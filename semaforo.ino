@@ -1,5 +1,3 @@
-// Link para o projeto: https://www.tinkercad.com/things/jMHzSFOcfqW-semaforos-e-leds/
-
 void setup()
 {
     pinMode(11, OUTPUT);
