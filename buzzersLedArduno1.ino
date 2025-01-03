@@ -1,4 +1,4 @@
-// Link para o projeto: https://www.tinkercad.com/things/23DJ12lhOER-buzzers-led/
+
 void setup()
 {
   pinMode(1, OUTPUT);
