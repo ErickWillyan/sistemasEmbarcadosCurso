@@ -1,5 +1,3 @@
-// Link para o projeto: https://www.tinkercad.com/things/fujJM6tNmik-undertaletrack/
-
 #define BOTAO 10
 #define Buzzer 9
 
