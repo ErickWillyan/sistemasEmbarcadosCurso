@@ -10,4 +10,4 @@ Geradores de energia: https://www.tinkercad.com/things/bZgq5xJ7hAP-led-e-gerador
 
 Botões: https://www.tinkercad.com/things/2b7TqFFEOYp-copy-of-3-push-button/
 
-Potênciometro: https://www.tinkercad.com/things/2wcYi3qklBf-potenciometro/
+Potenciômetro: https://www.tinkercad.com/things/2wcYi3qklBf-potenciometro/
